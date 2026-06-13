@@ -123,11 +123,11 @@ ON p.product_id = s.product_id;
 
 Shows the quantity sold for each product.
 
-![Quantity Sold By Product](Quantity_Sold_By_Products.png)
+![Quantity_Sold_By_Products](Quantity_Sold_By_Products.png)
 
 ---
 
-## Top 5 Selling Products
+## Top 5 Selling Product
 
 Highlights the five best-selling products based on quantity sold.
 

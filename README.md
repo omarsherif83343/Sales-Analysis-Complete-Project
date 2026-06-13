@@ -123,7 +123,7 @@ ON p.product_id = s.product_id;
 
 Shows the quantity sold for each product.
 
-![Quantity Sold By Product](Quantity_Sold_By_Products.png)
+![Quantity_Sold_By_Products](Quantity_Sold_By_Products.png)
 
 ---
 
@@ -131,7 +131,7 @@ Shows the quantity sold for each product.
 
 Highlights the five best-selling products based on quantity sold.
 
-![Top 5 Selling Products](Top_Five_Products.png)
+![Top_Five_Products](Top_Five_Products.png)
 
 ---
 
@@ -148,7 +148,7 @@ Interactive dashboard containing:
 - Top Customer
 - Top Product
 
-![Sales Dashboard](Sales_Analysis.png)
+![Sales_Analysis](Sales_Analysis.png)
 
 ---
 
